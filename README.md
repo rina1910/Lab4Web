@@ -11,12 +11,16 @@
 1. Pertama - tama membuka VSCode
  ![](Foto/foto1.png)
 
-2. Kemudian membuat dokumen HTML dengan nama <b><i>file lab4_box.html</i></b>
+2. <mark>Kemudian membuat dokumen HTML dengan nama <b><i>file lab4_box.html</i></b></mark>
  ![](Foto/foto2.png)
 
-3. Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
+3. <mark>Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.</mark>
  ![](Foto/foto3.png)
 
-4. Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
+4. <mark>Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.</mark>
  ![](Foto/foto4.png)<p>Ini hasil di Microsoft Edge</p>
  ![](Foto/foto5.png)
+
+5. Mengatur Clearfix Element<p>Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.</p><br>Tambahkan element div lainnya seteleah div3 seperti berikut.</br>
+ ![](Foto/foto6.png)<p>Ini hasil di Microsoft Edge</p>
+ ![](Foto/foto7.png)
