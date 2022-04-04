@@ -11,16 +11,24 @@
 1. Pertama - tama membuka VSCode
  ![](Foto/foto1.png)
 
-2. <mark>Kemudian membuat dokumen HTML dengan nama <b><i>file lab4_box.html</i></b></mark>
+2. <hr>Kemudian membuat dokumen HTML dengan nama <b><i>file lab4_box.html</i></b></hr>
  ![](Foto/foto2.png)
 
-3. <mark>Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.</mark>
+3. <hr>Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.</hr>
  ![](Foto/foto3.png)
 
-4. <mark>Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.</mark>
+4. <hr>Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.</hr>
  ![](Foto/foto4.png)<p>Ini hasil di Microsoft Edge</p>
  ![](Foto/foto5.png)
 
-5. Mengatur Clearfix Element<p>Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.</p><br>Tambahkan element div lainnya seteleah div3 seperti berikut.</br>
+5. <hr>Mengatur Clearfix Element<p>Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.</p><br>Tambahkan element div lainnya seteleah div3 seperti berikut.</br>
+ ![](Foto/foto8.png)<p>Kemudian atur property clear pada CSS, seperti berikut.</p>
  ![](Foto/foto6.png)<p>Ini hasil di Microsoft Edge</p>
- ![](Foto/foto7.png)
+ ![](Foto/foto7.png)</hr>
+ <p>Saya melakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right),
+dan amati perubahannya. 
+ ![](Foto/foto9.png)
+ ![](Foto/foto10.png)<p>Yang terjadi perubahan adalah right, tampilannya seperti berikut:</p>
+ ![](Foto/foto11.png)
+
+6. 
