@@ -11,17 +11,17 @@
 1. Pertama - tama membuka VSCode
  ![](Foto/foto1.png)
 
-2. <hr>Kemudian membuat dokumen HTML dengan nama <b><i>file lab4_box.html</i></b></hr>
+2. Kemudian membuat dokumen HTML dengan nama <b><i>file lab4_box.html</i></b>
  ![](Foto/foto2.png)
 
-3. <hr>Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.</hr>
+3. Kemudian tambahkan kode untuk membuat box element dengan tag div seperti berikut.
  ![](Foto/foto3.png)
 
-4. <hr>Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.</hr>
+4. Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seperti berikut.
  ![](Foto/foto4.png)<p>Ini hasil di Microsoft Edge</p>
  ![](Foto/foto5.png)
 
-5. <hr>Mengatur Clearfix Element<p>Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.</p><br>Tambahkan element div lainnya seteleah div3 seperti berikut.</br>
+5. Mengatur Clearfix Element<p>Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.</p><br>Tambahkan element div lainnya seteleah div3 seperti berikut.</br>
  ![](Foto/foto8.png)<p>Kemudian atur property clear pada CSS, seperti berikut.</p>
  ![](Foto/foto6.png)<p>Ini hasil di Microsoft Edge</p>
  ![](Foto/foto7.png)</hr><br>Saya melakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right), dan amati perubahannya.</br>
@@ -34,5 +34,16 @@
  ![](Foto/foto14.png)<br>Inilah hasilnya:</br>
  ![](Foto/foto13.png)
 
+7. Kemudian tambahkan kode CSS untuk membuat layoutnya.
+ ![](Foto/foto15.png)<br>![](Foto/foto13.png)</br>
+ ![](Foto/foto16.png)
+
+8. Langkah selanjutnya mengatur navigasi.
+ ![](Foto/foto17.png)<br>Kemudian lihat hasilnya.</br>
+ ![](Foto/foto18.png)
+
+9. Kemudian Selanjutnya membuat hero panel.<br>Tambahkan kode HTML</br>
+ ![](Foto/foto19.png)<br>Tambahkan kode CSS</br>
+ ![](Foto/foto20.png)
 
 
