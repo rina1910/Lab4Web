@@ -56,6 +56,8 @@
 
 12. Langkah selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
  ![](Foto/foto25.png)<p>Dan inilah hasilnya:</p>
- ![](Foto/foto25.png)
+ ![](Foto/foto26.png)
 
 13. Menambahkan Elemen lainnya pada Main Content
+ ![](Foto/foto27.png)
+ 

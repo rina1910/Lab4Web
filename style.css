@@ -38,7 +38,8 @@ nav a {
     text-decoration: none;
     font-weight: bold;
 }
-nav a.active,
+nav a
+.active,
 nav a:hover {
     background-color: #2b83ea;
 }
@@ -81,7 +82,8 @@ color: #b5b5b5;
     border:1px solid #eee;
     margin-bottom:20px;
 }
-.widget-box .title {
+.widget-box 
+.title {
     padding:10px 16px;
     background-color:#428bca;
     color:#fff;
