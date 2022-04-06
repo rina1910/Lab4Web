@@ -44,6 +44,18 @@
 
 9. Kemudian Selanjutnya membuat hero panel.<br>Tambahkan kode HTML</br>
  ![](Foto/foto19.png)<br>Tambahkan kode CSS</br>
- ![](Foto/foto20.png)
+ ![](Foto/foto20.png)<p>Dan inilah hasilnya:</p>
+ ![](Foto/foto21.png)
 
+10. Langkah selanjutnya mengatur main content dan sidebar, tambahkan CSS float.</br>
+ ![](Foto/foto22.png)
 
+11. Kemudian selanjutnya menambahkan element lain dalam sidebar.
+ ![](Foto/foto23.png)<br>Kemudian tambahkan CSS.</br>
+ ![](Foto/foto24.png)
+
+12. Langkah selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+ ![](Foto/foto25.png)<p>Dan inilah hasilnya:</p>
+ ![](Foto/foto25.png)
+
+13. Menambahkan Elemen lainnya pada Main Content
