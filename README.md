@@ -24,11 +24,15 @@
 5. <hr>Mengatur Clearfix Element<p>Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.</p><br>Tambahkan element div lainnya seteleah div3 seperti berikut.</br>
  ![](Foto/foto8.png)<p>Kemudian atur property clear pada CSS, seperti berikut.</p>
  ![](Foto/foto6.png)<p>Ini hasil di Microsoft Edge</p>
- ![](Foto/foto7.png)</hr>
- <p>Saya melakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right),
-dan amati perubahannya. 
+ ![](Foto/foto7.png)</hr><br>Saya melakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right), dan amati perubahannya.</br>
  ![](Foto/foto9.png)
  ![](Foto/foto10.png)<p>Yang terjadi perubahan adalah right, tampilannya seperti berikut:</p>
  ![](Foto/foto11.png)
 
-6. 
+6. Langkah selanjutnya Membuat Layout Sederhana<br>Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama home.html, dan file css dengan nama style.css.</br>
+ ![](Foto/foto12.png)<br>Kemudian tulis kode berikut.</br>
+ ![](Foto/foto14.png)<br>Inilah hasilnya:</br>
+ ![](Foto/foto13.png)
+
+
+
